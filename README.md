@@ -28,8 +28,8 @@ Refer this link: https://github.com/nodemcu/nodemcu-flasher#usage <br />
 
 # Linux users:
 1.open terminal and type fllowig command to install esptool.<br />
-  sudo pip install esptool<br />
+ <b> sudo pip install esptool</b><br />
 2.Now download the deauth_detection.bin.<br />
 3.To flash bin file to node mcu use following command.<br />
-  esptool.py --port COM4 write_flash 0x0000 deauth_detection.bin  (Here COM port is differs)<br />
+  <b>esptool.py --port COM4 write_flash 0x0000 deauth_detection.bin </b> (Here COM port is differs)<br />
 4.Now connect the node mcu module to power bank and place near the router you want to secure.
