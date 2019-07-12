@@ -1,5 +1,5 @@
 # Deauth_Detection_nodemcu
-It is a device which helps to find if any hacker attacking our wireless network or not. It can programmed with arduino ide.<br />
+It is a device which helps to find if any hacker attacking our wireless network or not. It can programmed with c.<br />
 
 # REQUIREMENTS:
 1.Node mcu module (esp8266)<br />
